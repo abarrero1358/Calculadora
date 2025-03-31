@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"cociente","l":"Cociente"},{"p":"org.example","l":"Main"}];updateSearchResults();
